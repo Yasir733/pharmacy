@@ -1,0 +1,4 @@
+Dual Cotexin;120;5;600;
+Piriton;10;6;60;
+TOTAL;;;660;
+GRAND TOTAL;;;;;660

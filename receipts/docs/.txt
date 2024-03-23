@@ -1,0 +1,2 @@
+celastemine;30;2;60;
+TOTAL;;;60;

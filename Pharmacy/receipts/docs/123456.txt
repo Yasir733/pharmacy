@@ -1,0 +1,2 @@
+Piriton;10 mg;1x1;5;10;50
+Dual Cotexin;10 mg;1x1;5;120;600

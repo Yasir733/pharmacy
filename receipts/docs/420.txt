@@ -1,0 +1,2 @@
+celastemine;100mg;dose 4*3;2;30;60
+GRAND TOTAL;;;;;60
